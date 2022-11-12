@@ -1,0 +1,12 @@
+configuration {
+	font: "Liberation Mono 11";
+}
+@theme "dark.rasi"
+
+listview {
+	lines: 6;
+}
+
+window {
+	width: 40%;
+}
